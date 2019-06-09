@@ -91,7 +91,7 @@ education:
 experiences:
     - role: Software Engineer - L2
       time: 2017 - Present
-      company: Google, London
+      company: Clarion Technologies Pvt. Ltd., Bangalore, India
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -99,8 +99,13 @@ experiences:
         nascetur ridiculus mus. Donec quam felis, ultricies nec,
         pellentesque eu, pretium quis, sem.
 
-          - Bullet point
-          - Bullet point
+          - Worked on a Volunteer management system for US-based Client (ChicagoGreeter). 
+          - Used TDD approach to develop and execute the project(PHP7 & Laravel). 
+          - Joined here as a Software engineer L1 and promoted as Software Engineer - L2. 
+          - Got a chance to learn and explore Django(Python), Zend3(PHP), NodeJS, Angular.
+          - Currently working for a US client(Incentco).
+
+
 
     - role: Software Engineer
       time: 2015 - 2017
